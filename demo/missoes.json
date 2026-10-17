@@ -1,0 +1,13 @@
+[
+  {
+    "categoria": "curso",
+    "nome": "Estudar Vim",
+    "minutos_dia": 20,
+    "marcos": ["Seção 1", "Seção 2", "Seção 3", "Seção 4", "Seção 5"]
+  },
+  {
+    "categoria": "jogo",
+    "nome": "Marvel’s Spider-Man Remastered",
+    "minutos_dia": 30
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"nome": "Banho", "vezes": 3, "vida": "banho"},
+  {"nome": "Alimentação", "vezes": 3, "vida": "comida"},
+  {"nome": "Dormir antes das 00h", "vida": "sono"}
+]
